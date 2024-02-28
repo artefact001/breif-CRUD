@@ -36,8 +36,7 @@ Auteur
 
 
 
-Vous pouvez personnaliser ce README en fonction des spécificités de votre application CRUD et de vos préférences. Assurez-vous d'inclure des instructions claires sur la configuration, l'installation, l'utilisation et toute autre information pertinente pour les utilisateurs de votre application.
-
+cette application CRUD  permet de de faire une gestion des utilisateurs a savoir crée , modifier, mettre a jour et supprimer d'ou l'accronime CRUD.
 
 
 
